@@ -1,18 +1,31 @@
-# Eduform – AI-genererade utbildningsfilmer
+# Eduform.ai – AI-genererade ledarskapskurser
 
-Eduform är en AI-driven plattform som gör det enkelt att skapa professionella utbildningsfilmer med avatarer, AI-manus och voiceover. Perfekt för onboarding, ledarskapsträning och internutbildning.
+Detta är frontend-delen för Eduform.ai, ett SaaS för att skapa och leverera AI-genererade kurser. Fokus ligger initialt på ledarskap och utvecklas därefter modulärt.
 
-## Funktioner
+## 🌟 Status
 
-- 🎥 AI-genererad video med avatar (HeyGen)
-- 🧠 Manus skapat med OpenAI GPT
-- 🎙️ Röstsyntes via TTS (t.ex. ElevenLabs)
-- 🌍 Stöd för svenska och 30+ språk
-- 🚀 Färdig video på 30 minuter
+✅ Design och första version av startsida är färdig
+✅ Hostad på Vercel – tillgänglig via [ai.postboxen.se](https://ai.postboxen.se)
+✅ Använder Shadcn UI + Tailwind CSS + Next.js
+✅ Anpassad för framtida kurspresentationer
 
-## Kom igång lokalt
+---
 
-1. Klona projektet:
-```bash
-git clone https://github.com/DanielWarg/eduform-site.git
-cd eduform-site
+## 🚀 Teknikstack
+
+- **Next.js 14**
+- **React**
+- **Tailwind CSS**
+- **shadcn/ui**
+- **Vercel hosting**
+- **TypeScript**
+
+---
+
+## 🔧 Kom igång lokalt
+
+1. **Kloning:**
+   ```bash
+   git clone https://github.com/danielwarg/eduform-site.git
+   cd eduform-site
+   ```
